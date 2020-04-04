@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Create Account</title>
     <link rel="stylesheet" href="assets/css/createAccount.css">
 
 </head>
 <body>  
-  <img src ="assets/image/regBack.jpg" class="back-img">
 
     <div class="registration">
        <p>Create an Account</p>
