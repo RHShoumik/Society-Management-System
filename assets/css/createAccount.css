@@ -9,12 +9,20 @@
 
 body{
 	background-image: url('../image/regBack.jpg'); /* The image used */
-    background: #3aaf9f; /* Used if the image is unavailable */
+    background: #fff; /* Used if the image is unavailable */
     height:500px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
   
+}
+p{
+	color:#fff;
+}
+.back-img{
+	width:100%;
+          height:933px;
+
 }
 
 a{
@@ -24,7 +32,8 @@ a{
 	max-width: 350px;
     width:100%;
     height:auto;
-    background: transparent;
+    background:#000;
+    color: #fff;
     padding: 60px 45px;
     position: absolute;
     top: 50%;
@@ -32,6 +41,7 @@ a{
     transform: translate(-50%,-50%);
     border-radius: 20px;
     box-shadow:10px;
+    opacity:.7;
 
 
 

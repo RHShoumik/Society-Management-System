@@ -7,7 +7,7 @@
 
 </head>
 <body>  
-  
+  <img src ="assets/image/regBack.jpg" class="back-img">
 
     <div class="registration">
        <p>Create an Account</p>
@@ -36,7 +36,7 @@
 
        </form>
         
-    </div>
+    </div>  
     
 
 
