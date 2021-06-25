@@ -1,0 +1,154 @@
+F:\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe.config
+F:\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe
+F:\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.pdb
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csprojAssemblyReference.cache
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Properties.Resources.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.Login.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.GenerateResource.cache
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.exe
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.pdb
+F:\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.UI.dll
+F:\C# project\TutionManagementSystem\bin\Debug\Emgu.Util.dll
+F:\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.dll
+F:\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.UI.xml
+F:\C# project\TutionManagementSystem\bin\Debug\Emgu.Util.xml
+F:\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.xml
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.CopyComplete
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AdminView.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpForm.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormStudent.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormEmployee.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormTeacher.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PendingRequest.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentView.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AddCourse.resources
+E:\C# Project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe.config
+E:\C# Project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe
+E:\C# Project\TutionManagementSystem\bin\Debug\TutionManagementSystem.pdb
+E:\C# Project\TutionManagementSystem\bin\Debug\Emgu.Util.dll
+E:\C# Project\TutionManagementSystem\bin\Debug\Emgu.CV.dll
+E:\C# Project\TutionManagementSystem\bin\Debug\Emgu.CV.UI.xml
+E:\C# Project\TutionManagementSystem\bin\Debug\Emgu.Util.xml
+E:\C# Project\TutionManagementSystem\bin\Debug\Emgu.CV.xml
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csprojAssemblyReference.cache
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Properties.Resources.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AddCourse.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AdminView.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.Login.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PendingRequest.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpForm.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormEmployee.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormStudent.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormTeacher.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentView.resources
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.GenerateResource.cache
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.CopyComplete
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.exe
+E:\C# Project\TutionManagementSystem\obj\Debug\TutionManagementSystem.pdb
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\TutionManagementSystem.exe.config
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\TutionManagementSystem.exe
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\TutionManagementSystem.pdb
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Emgu.CV.UI.dll
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Emgu.Util.dll
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Emgu.CV.dll
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Emgu.CV.UI.xml
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Emgu.Util.xml
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Emgu.CV.xml
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.csprojAssemblyReference.cache
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Properties.Resources.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.AddCourse.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.AdminView.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.Login.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.PendingRequest.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.SignUpForm.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.SignUpFormEmployee.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.SignUpFormStudent.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.SignUpFormTeacher.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.StudentView.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.csproj.GenerateResource.cache
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.csproj.CopyComplete
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.exe
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.pdb
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.DeleteUser.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.EmployeeView.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.TeacherView.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.StudentUpdate.resources
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.Views.PlayVideo.resources
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem - Copy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem - Copy\obj\Debug\TutionManagementSystem.csproj.ResolveComReference.cache
+F:\C# project\TutionManagementSystem\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.ResolveComReference.cache
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.DeleteUser.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.EmployeeView.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PlayVideo.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentUpdate.resources
+F:\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.TeacherView.resources
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe.config
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.pdb
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\Emgu.Util.dll
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.dll
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.UI.xml
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\Emgu.Util.xml
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\Emgu.CV.xml
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\New folder\C# project\TutionManagementSystem\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csprojAssemblyReference.cache
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.ResolveComReference.cache
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Properties.Resources.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AddCourse.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AdminView.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.DeleteUser.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.EmployeeView.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.Login.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PendingRequest.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PlayVideo.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpForm.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormEmployee.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormStudent.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormTeacher.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentUpdate.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentView.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.TeacherView.resources
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.GenerateResource.cache
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.CopyComplete
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.exe
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.pdb
+F:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.CoreCompileInputs.cache
+G:\New folder\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe.config
+G:\New folder\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.exe
+G:\New folder\C# project\TutionManagementSystem\bin\Debug\TutionManagementSystem.pdb
+G:\New folder\C# project\TutionManagementSystem\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\New folder\C# project\TutionManagementSystem\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.ResolveComReference.cache
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Properties.Resources.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AddCourse.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.AdminView.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.DeleteUser.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.EmployeeView.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.Login.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PendingRequest.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.PlayVideo.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpForm.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormEmployee.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormStudent.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.SignUpFormTeacher.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentUpdate.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.StudentView.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.Views.TeacherView.resources
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.GenerateResource.cache
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.CoreCompileInputs.cache
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csproj.CopyComplete
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.exe
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.pdb
+G:\New folder\C# project\TutionManagementSystem\obj\Debug\TutionManagementSystem.csprojAssemblyReference.cache
